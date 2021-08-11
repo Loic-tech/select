@@ -89,7 +89,7 @@ export default {
     font-size: 18px;
     color: #0a0a0a;
     border-radius: 15px;
-    max-height: 400px;
+    max-height: 300px;
     overflow-y: scroll;
     outline: none;
   }
